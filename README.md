@@ -1,0 +1,1 @@
+Run opencode in this directory to search
